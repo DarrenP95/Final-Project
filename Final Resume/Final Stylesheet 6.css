@@ -1,0 +1,141 @@
+
+body{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+header { 
+  
+  text-align: center;
+  background-color: #20c580;
+  text-align: center;
+  color: white;
+  border: white;
+}
+
+
+
+
+#headshot {
+  width: 200;
+  height: 200;
+  border:   WHITE  solid 10px;
+  border-radius: 50%;
+}
+
+.wrapper{
+  display: flex;
+
+}
+.sidebar{
+  flex:1;
+  height: 1070px;
+  background-color: #E27D60;
+  color:white;
+  border: white solid;
+}
+.info{
+  flex:15;
+  height: 1000px;
+  background-color: #E8a87c;
+  border: white solid;
+  }
+
+
+.e1 {background-color: #20c580;}
+
+.q0 {
+    display: flex;
+}
+ .q1 {flex:15;
+  height: 205px;
+  background-color:#20c580;
+  border: white solid;
+  }
+  .q2 {flex:15;
+    height: 205px;
+    background-color: #20c580;
+    border: white solid;
+    }
+
+    .q3 {flex:15;
+      height: 205px;
+      background-color: #20c580;
+      border: white solid;
+      }
+ 
+ 
+ 
+  .e2 {background-color: #20c580;}
+  .ex0 {
+    display: flex;}
+ .ex1 {flex:15;
+  height: 300px;
+  background-color: #20c580;
+  border: white solid;
+  }
+  .ex2 {flex:15;
+    height: 300px;
+    
+    border: white solid;
+    background-color: #20c580;
+    }
+    .ex3 {flex:15;
+      height: 300px;
+      
+      border: white solid;
+      background-color: #20c580;
+      }
+
+      .s0 {
+        display: flex;}
+     .s1 {flex:15;
+      height: 205px;
+      background-color: #E27D60;
+      border: white solid;
+      }
+      .s2 {flex:15;
+        height: 205px;
+        
+        border: white solid;
+        background-color: #E27D60;
+        }
+
+
+
+
+
+    
+
+
+  .footer {
+    background-color: #20c580;
+    text-align: center;
+    color: white;
+    
+    }
+
+
+#icon{
+width: 3rem;
+margin: 2rem;
+}
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+ 
+
